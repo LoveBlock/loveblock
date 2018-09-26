@@ -99,6 +99,6 @@ admin.addPeer("enode://79ca6a10e28134087cce01c6b5f4dd54b7bb689c93b39aa29fb890f49
 
 
 ## Thank you Ethereum
-Ethereum is an outstanding open source blockchain project, with Turing complete virtual machine, convenient account data storage mechanism, and is a proven mature and stable system. However, Ethereum also has obvious problems of low throughput and low consensus efficiency. In order to create prototype rapidly and fast verify our innovative consensus algorithms and application scenarios, LoveBlock will perform in-depth optimization based on Ethereum 1.8.3, gradually replacing its consensus mechanism, introducing new smart contract language, and transforming the account system. And we will rewrite all code at July, 2018.
+Ethereum is an outstanding open source blockchain project, with Turing complete virtual machine, convenient account data storage mechanism, and is a proven mature and stable system. However, Ethereum also has obvious problems of low throughput and low consensus efficiency. In order to create prototype rapidly and fast verify our innovative consensus algorithms and application scenarios, LoveBlock will perform in-depth optimization based on Ethereum 1.8.3, gradually replacing its consensus mechanism, introducing new smart contract language, and transforming the account system. 
 
 Thanks to all contributors of the Ethereum Project.
